@@ -1,0 +1,22 @@
+# Hugo Generated Files
+public/
+resources/
+.hugo_build.lock
+
+# Hugo Cache & Temp
+.cache/
+tmp/
+*.tmp
+
+# OS & Editor Files
+.DS_Store
+Thumbs.db
+*.log
+*.bak
+*.swp
+*~
+
+# IDE / Editor
+.vscode/
+.idea/
+*.code-workspace
