@@ -1,0 +1,7 @@
+baseURL: https://example.org/
+languageCode: zh-CN
+title: The Only Way
+theme: ["PaperMod"]
+caches:
+  images:
+    dir: :cacheDir/images
